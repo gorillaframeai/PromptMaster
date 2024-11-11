@@ -1,0 +1,14 @@
+{
+    "prompt_settings": {
+        "copy_images": true,
+        "structure": "[quality], [tags], [find_file_prompt], [style], [camera], [lighting], [season], [emotion], [background]",
+        "quality": "masterpiece, best quality@ultra detailed, best quality",
+        "tags": "#Portrait@#Landscape@#Action",
+        "style": "oil painting@watercolor@digital art@pencil sketch",
+        "camera": "close-up shot@wide angle@bokeh@macro lens",
+        "lighting": "natural lighting@studio lighting@dramatic shadows@soft light",
+        "season": "spring morning@summer sunset@autumn evening@winter night",
+        "emotion": "happy@peaceful@energetic@mysterious",
+        "background": "blurred city@nature landscape@abstract patterns@solid color"
+    }
+}
